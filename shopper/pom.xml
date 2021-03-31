@@ -47,7 +47,7 @@
     <shopizer-canadapost.version>2.10.0</shopizer-canadapost.version>
 
     <org.elasticsearch-version>7.5.2</org.elasticsearch-version>
-    <guava.version>27.1-jre</guava.version>
+    <guava.version>29.0-jre</guava.version>
     <commons-lang.version>3.5</commons-lang.version>
     <commons-io.version>2.5</commons-io.version>
     <commons-collections4.version>4.0</commons-collections4.version>
